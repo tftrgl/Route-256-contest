@@ -1,4 +1,4 @@
-?int t = Int32.Parse(Console.ReadLine());
+int t = Int32.Parse(Console.ReadLine());
 string[] responces = new string[t];
 
 for (int q = 0; q < t; q++)

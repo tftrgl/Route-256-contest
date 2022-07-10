@@ -1,4 +1,4 @@
-?Trie dictionary = new Trie();
+Trie dictionary = new Trie();
 int n = Int32.Parse(Console.ReadLine());
 for (int i = 0; i < n; i++)
 {
